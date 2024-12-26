@@ -166,7 +166,7 @@
                                         class="header__area-menubar-right-sidebar-popup-contact-item-content">
                                         <span>Office Address</span>
                                         <h6>
-                                            <span class="text-white"> Shop 2, Block A7, New Wazo Market, Ogbomoso, Nigeria</span>
+                                            <span class="text-white"> Shop 2, Block A7, New Wazo Market, Ogbomoso, Nigeria.</span>
                                         </h6>
                                     </div>
                                 </div>
