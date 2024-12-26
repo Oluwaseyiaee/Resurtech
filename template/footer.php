@@ -34,8 +34,7 @@
                         <a href="#"><img src="assets/img/logo-2.png" alt="image" /></a>
                         <p>
                             To reduce e-waste by repairing and redistributing tech to
-                            underserved communities. Other items in that section is good
-                            to go aside phone number.
+                            underserved communities.
                         </p>
                         <div class="footer__two-widget-about-location">
                             <div class="footer__two-widget-about-location-item">
@@ -104,21 +103,21 @@
                                         href="https://www.facebook.com/projectResurtech"
                                         target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <a
                                         href="https://www.twitter.com/projectResurtech"
                                         target="_blank"><i class="fab fa-twitter"></i></a>
-                                </li>
+                                </li> -->
                                 <li>
                                     <a
                                         href="https://www.linkedin.com/projectResurtech"
                                         target="_blank"><i class="fab fa-linkedin"></i></a>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <a
                                         href="https://twitter.com/projResurtech"
                                         target="_blank"><i class="fab fa-instagram"></i></a>
-                                </li>
+                                </li> -->
                             </ul>
                         </div>
                     </div>

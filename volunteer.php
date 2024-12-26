@@ -58,13 +58,10 @@ include('template/header.php');
 
                     <ul>
                         <li class="mb-2">
-                            <span class="fw-bold">Raise Awareness: </span>ake charge in
-                            your local area by becoming a Resurtech community leader. You
-                            can implement our initiatives at a grassroots level, and we’ll
-                            provide guidance based on our experiences.
+                            <span class="fw-bold">Raise Awareness: </span>Help us spread the word about Resurtech! Encourage your friends, family, and social media followers to donate or refer individuals who could benefit from our services.
                         </li>
                         <li class="mb-2">
-                            <span class="fw-bold">Act as a Community Lead: </span>in your
+                            <span class="fw-bold">Act as a Community Lead: </span>Take charge in your
                             local community. As a lead, you can replicate exactly what
                             we're doing but at your local community level. We can help you
                             get started based on our past experiences.

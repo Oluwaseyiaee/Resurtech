@@ -258,7 +258,7 @@ include('template/header.php');
 <!-- Services Two Area End -->
 
 <!-- Join us Area Start -->
-<div class="testimonial__one section-padding">
+<!-- <div class="testimonial__one section-padding">
     <div class="container about-padding">
         <div class="swiper-wrapper">
             <div class="testimonial__five-card swiper-slide">
@@ -275,11 +275,11 @@ include('template/header.php');
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- JOin us Area End -->
 
 <!-- Testimonial Area Start -->
-<div class="testimonial__one section-padding mb-50">
+<!-- <div class="testimonial__one section-padding mb-50">
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-6">
@@ -305,9 +305,9 @@ include('template/header.php');
                 <div class="testimonial__one-right">
                     <div class="swiper testimonial__one-slider-active">
                         <h3 class="text-center mb-3">Success Stories</h3>
-                        <!-- Testimony Wrapper -->
+
                         <div class="swiper-wrapper">
-                            <!-- Testimony 1 -->
+
                             <div class="single-slider swiper-slide">
                                 <div class="single-slider-user">
                                     <div class="single-slider-user-name">
@@ -322,7 +322,7 @@ include('template/header.php');
                                     clearly
                                 </p>
                             </div>
-                            <!-- Testimony 2 -->
+
                             <div class="single-slider swiper-slide">
                                 <div class="single-slider-user">
                                     <div class="single-slider-user-name">
@@ -337,7 +337,7 @@ include('template/header.php');
                                     clearly
                                 </p>
                             </div>
-                            <!-- Testimony 3 -->
+
                             <div class="single-slider swiper-slide">
                                 <div class="single-slider-user">
                                     <div class="single-slider-user-name">
@@ -352,7 +352,7 @@ include('template/header.php');
                                     clearly
                                 </p>
                             </div>
-                            <!-- Testimony 4 -->
+
                             <div class="single-slider swiper-slide">
                                 <div class="single-slider-user">
                                     <div class="single-slider-user-name">
@@ -367,7 +367,7 @@ include('template/header.php');
                                     clearly
                                 </p>
                             </div>
-                            <!-- Testimony 5 -->
+
                             <div class="single-slider swiper-slide">
                                 <div class="single-slider-user">
                                     <div class="single-slider-user-name">
@@ -394,7 +394,7 @@ include('template/header.php');
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- Testimonial Area End -->
 
 

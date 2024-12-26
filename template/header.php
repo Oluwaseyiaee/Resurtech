@@ -58,8 +58,7 @@
                 </div>
                 <div class="col-xl-5 col-md-5">
                     <div class="top__bar-right">
-                        <a href="https://www.google.com/maps"><i class="fas fa-map-marker-alt"></i>6391 Elgin St. Celina,
-                            10299</a>
+                        <a href="https://www.google.com/maps"><i class="fas fa-map-marker-alt"></i>Shop 2, Block A7, New Wazo Market, Ogbomoso, Nigeria</a>
                     </div>
                 </div>
             </div>
@@ -125,10 +124,8 @@
                                 </a>
                             </div>
                             <p>
-                                Morbi et tellus imperdiet, aliquam nulla sed, dapibus erat.
-                                Aenean dapibus sem non purus venenatis vulputate. Donec
-                                accumsan eleifend blandit. Nullam auctor ligula
-                            </p>
+                                To reduce e-waste by repairing and redistributing tech to
+                                underserved communities. </p>
                             <div class="header__area-menubar-right-sidebar-popup-contact">
                                 <h4 class="mb-30">Get In Touch</h4>
                                 <div
@@ -169,7 +166,7 @@
                                         class="header__area-menubar-right-sidebar-popup-contact-item-content">
                                         <span>Office Address</span>
                                         <h6>
-                                            <span class="text-white">PV3M+X68 Welshpool United Kingdom</span>
+                                            <span class="text-white"> Shop 2, Block A7, New Wazo Market, Ogbomoso, Nigeria</span>
                                         </h6>
                                     </div>
                                 </div>
@@ -181,21 +178,21 @@
                                             href="https://facebook.com/projectResurtech"
                                             target="_blank"><i class="fab fa-facebook-f"></i></a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a
                                             href="https://twitter.com/projectResurtech"
                                             target="_blank"><i class="fab fa-twitter"></i></a>
-                                    </li>
+                                    </li> -->
                                     <li>
                                         <a
                                             href="https://instagram.com/projectResurtech"
                                             target="_blank"><i class="fab fa-instagram"></i></a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a
                                             href="https://linkedin.com/projectResurtech"
                                             target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                                    </li>
+                                    </li> -->
                                 </ul>
                             </div>
                         </div>

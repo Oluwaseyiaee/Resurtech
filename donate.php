@@ -49,12 +49,6 @@ include('template/header.php');
                             please donate regardless for a responsible recycling.
                         </li>
                         <li>
-                            <span class="fw-bold">Security: </span>If possible, please
-                            wipe all personal data, including files and passwords, to
-                            protect your privacy. If you're unable to do this, we will
-                            securely wipe the device during the refurbishment process.
-                        </li>
-                        <li>
                             <span class="fw-bold">Security: </span>If possible, the device
                             should be securely wiped of all personal data, including
                             files, passwords, and other sensitive information, to protect

@@ -110,7 +110,7 @@ include('template/header.php');
                         </div>
                         <div class="contact__two-single-info-content">
                             <h4>Location</h4>
-                            <span>8502 Preston Rd. Inglewood, Maine 98380</span>
+                            <span>Shop 2, Block A7, New Wazo Market, Ogbomoso, Nigeria.</span>
                         </div>
                     </div>
                 </div>

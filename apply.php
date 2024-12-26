@@ -48,6 +48,17 @@ include('template/header.php');
                             donation period, the refurbishment process will begin, and
                             here’s what you can expect after submitting your application:
                         </p>
+                        <ul>
+                            <li>
+                                Your application will be reviewed, and if selected, we will contact you directly via email.
+                            </li>
+                            <li>
+                                Please note that recipients will be responsible for the delivery cost. This policy ensures that recipients take ownership of the device as they will have contributed to its delivery.
+                            </li>
+                            <li>
+                                Currently, we do not donate outside of Nigeria, but we are working towards expanding our reach across all African countries. If you are applying from outside Nigeria, please submit your application anyway; it will be prioritized once we can facilitate delivery to your location. </li>
+
+                        </ul>
                     </div>
 
                     <div>
